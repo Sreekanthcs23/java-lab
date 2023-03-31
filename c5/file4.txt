@@ -1,0 +1,7 @@
+this is file1
+this is file2
+object oriented programming
+line 2
+java class
+this is to be appended
+last line
